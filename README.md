@@ -1,6 +1,3 @@
-
-![welcome](https://github.com/user-attachments/assets/f0553077-aac9-4422-8544-77ab5b15f269)
-
 # Hi, I’m **Ram Bawankule**
 
 **Data Analyst @ EY** from **India** | Passionate about turning raw data into strategic insights & building ML-driven solutions
